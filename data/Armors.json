@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Uma máscara caseira feita com muito amor pela sua mãe.\n(Não é a mais recomendada, mas te dá uma proteção minima).","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Máscara de Tecido","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"Mascara que pode ser facilmente comprada em estabelecimentos.\n(Proteção Mediana).","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Máscara Descartável","note":"","params":[0,0,0,20,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"Considerada uma das mais recomendadas pelos especialistas.\n(Proteção ótima).","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Máscara P95","note":"","params":[0,0,0,50,0,0,0,0],"price":1000},
+{"id":4,"atypeId":1,"description":"Item raro obtido por meio de conquista.\n(Cara, se isso não te proteger não sei o que protegeria)","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Máscara de Gás","note":"","params":[0,0,0,80,10,0,0,0],"price":0}
+]
